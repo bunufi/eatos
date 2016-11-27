@@ -2,12 +2,13 @@ DEV
 ```
 
 soups/stews/one pot:
-    Caulimush soup (paprika, onion, garlic, chilli, tom paste)  
+
+Caulimush soup (paprika, onion, garlic, chilli, tom paste)  
 green pea (potato, carrot, onion)
 cauliflower (potato, carrot, onion)
 Broccoli (potato, carrot, onion) 
 lentil (soup veg, mushrooms, carrot, onion)
-sauerkraut soup (carrot, potato)
+sauerkraut soup (carrot, potato, dried mush)
 rataouille 
 melanzani (tom, onion)
 chilli
@@ -19,27 +20,22 @@ bean burgers
 Megadara
 Pasta, oil, salt, pepper 
 
-
-
-
 TODO veg:
 Broccoli
 Zuchini
-
 
 Salads:
     beetroot (pickle, onion, oil, sunflower seeds)
 green salad (leaves, carrot, kohlrabi, tom)
 raw carrot salad (spicy, oil, sunseeds)
 
-
 Spreads:
-    Tapenade
+Tapenade
 Green peas
 fried onion with pasata
-    Carrot, onion
-    Herb pesto
-    Zataar
+Carrot, onion
+Herb pesto
+Zataar
 noodle soup
 Miso
 Buckwheat
